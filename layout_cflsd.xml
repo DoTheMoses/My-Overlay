@@ -1,0 +1,88 @@
+<!DOCTYPE StreamControlLayout>
+
+<layout width="400" height="600">
+
+<label x="10" y="14" width="100" height="13">Event Info</label>
+  
+
+<label x="120" y="44" width="100" height="13">Series</label>
+
+<lineEdit id="eventSeries" x="140" y="10" width="171" height="20" />  
+
+
+<label x="240" y="44" width="100" height="13">Entry</label>
+
+<lineEdit id="eventEntry" x="140" y="10" width="171" height="20" />  
+
+
+<line x="10" y="74" width="400" />
+
+<label x="10" y="104" width="100" height="13">Match Info</label>
+ 
+
+
+<label x="10" y="14" width="130" height="13">Sponsor</label>
+  
+<label x="10" y="54" width="130" height="13">Tag</label>
+
+
+<label x="30" y="14" width="130" height="13">P1</label>
+
+<label x="50" y="14" width="130" height="13">P2</label>
+
+  
+<lineEdit id="pName1" x="140" y="10" width="171" height="20" />  
+  
+<label x="10" y="14" width="130" height="13">Player 1 Tag</label>
+ 
+
+
+<label x="10" y="44" width="130" height="13">Player 1 Twitter</label>
+  
+<lineEdit id="pTwitter1" x="140" y="40" width="171" height="20" />
+
+  
+<label x="10" y="74" width="130" height="13">Player 2 Tag</label>
+  
+<lineEdit id="pName2" x="140" y="74" width="171" height="20" />  
+  
+<label x="10" y="104" width="130" height="13">Player 2 Twitter</label>
+  
+<lineEdit id="pTwitter2" x="140" y="104" width="171" height="20" />
+
+  <label x="10" y="134" width="130" height="13">Player 3 Tag</label>
+  
+<lineEdit id="pName3" x="140" y="134" width="171" height="20" />  
+  
+<label x="10" y="164" width="130" height="13">Player 3 Twitter</label>
+  
+<lineEdit id="pTwitter3" x="140" y="164" width="171" height="20" />
+
+  
+<label x="10" y="194" width="130" height="13">Player 4 Tag</label>
+  
+<lineEdit id="pName4" x="140" y="194" width="171" height="20" />  
+  
+<label x="10" y="224" width="130" height="13">Player 4 Twitter</label>
+  
+<lineEdit id="pTwitter4" x="140" y="224" width="171" height="20" />
+
+  
+<label x="10" y="254" width="130" height="13">Notes</label>
+
+
+
+
+<comboBox id="region" width="200" height="20" x="50" y="500" editable="1" >
+<comboItem>CFL</comboItem>
+<comboItem>Tampa</comboItem>
+<comboItem>SWFL</comboItem>
+<comboItem>SFL</comboItem>
+<comboItem>Treasure Coast</comboItem>
+<comboItem>Gainesville</comboItem>
+<comboItem>Jacksonville</comboItem>
+<comboItem>Tallahassee</comboItem>
+<comboItem>Brevard</comboItem>
+</comboBox>
+
+</layout>
