@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'AcherusGrotesque';
+    src: url('ACHERUS_GROTESQUE_-_REGULAR.OTF');
+}
+
+body {
+	margin:0px;
+	background-color: rgba(0, 0, 0, 0);
+    font-family: 'AcherusGrotesque';
+    color: white;
+}
+
+#pName1 {
+	position:absolute;
+	font-size:30px;
+	background-image:url('../images/pName1.png');	
+    margin-top: 995px;
+    font-weight: bold;
+        text-align:center;
+}
+
+#pName2 {
+	position:absolute;
+	font-size:20px;
+	text-align:right;
+	background-image:url('../images/pName1.png');		
+}
+
+#pName3 {
+    position:absolute;
+    font-size:20px;
+    text-align:right;
+    background-image:url('../images/pName3.png');       
+}
+
+#pName4 {
+    position:absolute;
+    font-size:20px;
+    text-align:right;
+    background-image:url('../images/pName4.png');       
+}
+
+#noteArea {
+    position: absolute;
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE StreamControl>
+<settings>
+ <xsplitPath><![CDATA[C:\Inbox\Stream Stuff\My Overlay\]]></xsplitPath>
+ <layoutPath><![CDATA[C:\Inbox\Stream Stuff\My Overlay\layout.xml]]></layoutPath>
+ <useCDATA>1</useCDATA>
+ <games>
+  <game><![CDATA[Super Street Fighter IV]]></game>
+  <game><![CDATA[Ultimate Marvel vs Capcom 3]]></game>
+  <game><![CDATA[Persona 4: Arena]]></game>
+  <game><![CDATA[Tekken Tag Tournament 2]]></game>
+  <game><![CDATA[Soul Calibur V]]></game>
+  <game><![CDATA[King of Fighters XIII]]></game>
+ </games>
+</settings>
